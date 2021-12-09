@@ -1,2 +1,2 @@
 # diesel-rust-learning
-Holds all at least somewhat interesting code I have created in the process of learning diesel and rust.
+Holds the interesting mini projects I have completed while learning rocket and diesel. (omitts many less fruitful tangent projects I went on)
