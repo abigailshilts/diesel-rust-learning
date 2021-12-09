@@ -1,0 +1,11 @@
+/Users/abigailshilts/rust/projects/rocket-web/target/debug/deps/ppv_lite86-2a8354b16e4ddc63.rmeta: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/abigailshilts/rust/projects/rocket-web/target/debug/deps/libppv_lite86-2a8354b16e4ddc63.rlib: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/abigailshilts/rust/projects/rocket-web/target/debug/deps/ppv_lite86-2a8354b16e4ddc63.d: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs:
