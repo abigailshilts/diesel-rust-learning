@@ -1,0 +1,2 @@
+[global.databases]
+activities_db = { url = "postgres://abigailshilts:@localhost/diesel_events" }

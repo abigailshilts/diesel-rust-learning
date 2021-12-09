@@ -1,0 +1,11 @@
+/Users/abigailshilts/ws/*cries*/rust/projects/events/target/debug/deps/dotenv-0a8c78a9fc3c0bc6.rmeta: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/abigailshilts/ws/*cries*/rust/projects/events/target/debug/deps/libdotenv-0a8c78a9fc3c0bc6.rlib: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/abigailshilts/ws/*cries*/rust/projects/events/target/debug/deps/dotenv-0a8c78a9fc3c0bc6.d: /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs:
+/Users/abigailshilts/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs:
