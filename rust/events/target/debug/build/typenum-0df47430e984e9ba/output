@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/abigailshilts/ws/*cries*/rust/projects/events/target/debug/build/typenum-0df47430e984e9ba/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/abigailshilts/ws/*cries*/rust/projects/events/target/debug/build/typenum-0df47430e984e9ba/out/op.rs

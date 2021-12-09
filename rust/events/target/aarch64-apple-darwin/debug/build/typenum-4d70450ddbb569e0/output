@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/abigailshilts/ws/*cries*/rust/projects/events/target/aarch64-apple-darwin/debug/build/typenum-4d70450ddbb569e0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/abigailshilts/ws/*cries*/rust/projects/events/target/aarch64-apple-darwin/debug/build/typenum-4d70450ddbb569e0/out/op.rs
