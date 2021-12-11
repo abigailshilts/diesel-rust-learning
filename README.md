@@ -8,3 +8,8 @@ The Rust folder contains a basic rocket program, a static rust webpage (rocket-w
 Next steps: 
 - Being able to accept a query paramter from the website.
 - Being able to add entries from the website to the database.
+
+For most of these projects I followed online guides very closely and as a result the code will likely be very similar here are the links to the relevant ones in this repo:
+https://blog.logrocket.com/rust-web-apps-using-rocket-framework/
+https://www.perimeterx.com/tech-blog/2021/building-a-website-using-rust-rocket-diesel-and-askama-part-2/
+https://diesel.rs/guides/getting-started
