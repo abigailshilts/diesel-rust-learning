@@ -7,4 +7,4 @@ The Rust folder contains a basic rocket program, a static rust webpage (rocket-w
 
 Next steps: 
 - Being able to accept a query paramter from the website.
-- Being able to add entries from the website.
+- Being able to add entries from the website to the database.
